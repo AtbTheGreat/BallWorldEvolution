@@ -1,0 +1,2 @@
+# BallWorldEvolution
+BallWorld Evolution is a simple Java application that depicts three bouncing 2D balls. The player may click on the environment the balls are rolling in, and the further the mouse cursor is from the balls while clicking, the slower the balls become. I made this app in March or April 2012 and I used Java.Swing for the graphics, the colors, and the animation. Ball World Evolution (which features three balls) is not to be confused with Ball World (which features only one ball).
